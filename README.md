@@ -44,4 +44,12 @@ $ docker push quangvublog/my_docker_flask
 To pull
 $ docker pull quangvublog/my_docker_flask
 
-source: <a href="https://blog.vu-review.com">blog công nghệ</a>
+Quang Vũ Blog
+
+Địa chỉ: 432 Nguyễn Thị Minh Khai, Phường 5, Quận 3, Hồ Chí Minh 
+
+Phone: +84 977 689 733
+
+Email: quangvublog@gmail.com
+
+source: <a href="https://blog.vu-review.com">thủ thuật máy tính - Quang Vũ Blog</a>
