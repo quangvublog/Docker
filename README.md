@@ -7,6 +7,8 @@ $ docker ps
 CONTAINER ID  IMAGE  COMMAND  CREATED  STATUS  PORTS  NAMES
 <I do not have have any running right now>
   
+  
+  
 To kill a container
 
 $ docker kill <CONTAINER ID>
@@ -23,9 +25,11 @@ $ docker system prune -a
 To build a docker image
 $ docker build -t simple:latest .
 
+
 To run the build
 
 $ docker run -d -p 5000:5000 simple:latest
+
 
 To push image to Docker Hub
 
@@ -38,8 +42,10 @@ Login Succeeded
 To retag image 
 $ docker tag simple quangvublog/my_docker_flask
 
+
 To push
 $ docker push quangvublog/my_docker_flask
+
 
 To pull
 $ docker pull quangvublog/my_docker_flask
@@ -53,3 +59,6 @@ Phone: +84 977 689 733
 Email: quangvublog@gmail.com
 
 source: <a href="https://blog.vu-review.com">thủ thuật máy tính - Quang Vũ Blog</a>
+
+
+<a href="https://hub.docker.com/u/quangvublog">https://hub.docker.com/u/quangvublog</a>
